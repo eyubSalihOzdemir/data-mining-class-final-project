@@ -1,0 +1,31 @@
+C:\Users\cimbo\.jdks\openjdk-17.0.1\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.1\lib\idea_rt.jar=53197:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.1\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\cimbo\IdeaProjects\2018280059_bil3013_final\out\production\2018280059_bil3013_final;C:\Users\cimbo\.m2\repository\jfree\jfreechart\1.0.0\jfreechart-1.0.0.jar;C:\Users\cimbo\.m2\repository\jfree\jcommon\1.0.0\jcommon-1.0.0.jar;C:\Users\cimbo\.m2\repository\junit\junit\3.8\junit-3.8.jar Final.Final
+Enter cluster number: 2
+
+Select the 1. category (by its number): 
+1 - Sports
+2 - Religious
+3 - Nature
+4 - Theatre
+5 - Shopping
+6 - Picnic
+4
+Select the 2. category (by its number): 
+1 - Sports
+2 - Religious
+3 - Nature
+4 - Theatre
+5 - Shopping
+6 - Picnic
+6
+Cluster 1 size: 120
+Cluster 2 size: 129
+Iteration: 10
+
+WCSS: 19.609589724925403
+BCSS: 779.6839656345062
+Dunn Index: 0.6936456293831659
+Results saved to desktop as '\sonuc.txt'
+Chart is saved to desktop as '\2018280059_chart.png'
+
+
+Process finished with exit code 0

@@ -1,0 +1,259 @@
+C:\Users\cimbo\.jdks\openjdk-17.0.1\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.1\lib\idea_rt.jar=53175:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.1\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\cimbo\IdeaProjects\2018280059_bil3013_final\out\production\2018280059_bil3013_final;C:\Users\cimbo\.m2\repository\jfree\jfreechart\1.0.0\jfreechart-1.0.0.jar;C:\Users\cimbo\.m2\repository\jfree\jcommon\1.0.0\jcommon-1.0.0.jar;C:\Users\cimbo\.m2\repository\junit\junit\3.8\junit-3.8.jar Final.Final
+Enter cluster number: 4
+
+Select the 1. category (by its number): 
+1 - Sports
+2 - Religious
+3 - Nature
+4 - Theatre
+5 - Shopping
+6 - Picnic
+3
+Select the 2. category (by its number): 
+1 - Sports
+2 - Religious
+3 - Nature
+4 - Theatre
+5 - Shopping
+6 - Picnic
+5
+Cluster 1 size: 36
+Cluster 2 size: 66
+Cluster 3 size: 63
+Cluster 4 size: 84
+Iteration: 13
+
+WCSS: 128.341106178911
+BCSS: 2337.329396848469
+Dunn Index: 0.5001586935348061
+Results saved to desktop as '\2018280059_results\sonuc0.txt'
+Chart is saved to desktop as '\2018280059_charts\0.png'
+
+Cluster 1 size: 36
+Cluster 2 size: 63
+Cluster 3 size: 106
+Cluster 4 size: 44
+Iteration: 8
+
+WCSS: 125.55479757703742
+BCSS: 2396.2224633743613
+Dunn Index: 0.566149592549382
+Results saved to desktop as '\2018280059_results\sonuc1.txt'
+Chart is saved to desktop as '\2018280059_charts\1.png'
+
+Cluster 1 size: 70
+Cluster 2 size: 48
+Cluster 3 size: 89
+Cluster 4 size: 42
+Iteration: 13
+
+WCSS: 118.7548737295516
+BCSS: 2303.3824484544994
+Dunn Index: 0.5265767060374296
+Results saved to desktop as '\2018280059_results\sonuc2.txt'
+Chart is saved to desktop as '\2018280059_charts\2.png'
+
+Cluster 1 size: 36
+Cluster 2 size: 64
+Cluster 3 size: 83
+Cluster 4 size: 66
+Iteration: 8
+
+WCSS: 128.34118982619518
+BCSS: 2335.405817698014
+Dunn Index: 0.4913126066508601
+Results saved to desktop as '\2018280059_results\sonuc3.txt'
+Chart is saved to desktop as '\2018280059_charts\3.png'
+
+Cluster 1 size: 66
+Cluster 2 size: 37
+Cluster 3 size: 80
+Cluster 4 size: 66
+Iteration: 13
+
+WCSS: 127.45605618493721
+BCSS: 2331.815794473424
+Dunn Index: 0.483048267652351
+Results saved to desktop as '\2018280059_results\sonuc4.txt'
+Chart is saved to desktop as '\2018280059_charts\4.png'
+
+Cluster 1 size: 69
+Cluster 2 size: 45
+Cluster 3 size: 52
+Cluster 4 size: 83
+Iteration: 14
+
+WCSS: 118.64850185726374
+BCSS: 2284.336588981691
+Dunn Index: 0.4810596029307713
+Results saved to desktop as '\2018280059_results\sonuc5.txt'
+Chart is saved to desktop as '\2018280059_charts\5.png'
+
+Cluster 1 size: 40
+Cluster 2 size: 106
+Cluster 3 size: 52
+Cluster 4 size: 51
+Iteration: 12
+
+WCSS: 116.14812316951033
+BCSS: 2351.3043539504415
+Dunn Index: 0.6578762367994367
+Results saved to desktop as '\2018280059_results\sonuc6.txt'
+Chart is saved to desktop as '\2018280059_charts\6.png'
+
+Cluster 1 size: 53
+Cluster 2 size: 108
+Cluster 3 size: 51
+Cluster 4 size: 37
+Iteration: 11
+
+WCSS: 123.28937904374743
+BCSS: 2398.435143668208
+Dunn Index: 0.5479563956987711
+Results saved to desktop as '\2018280059_results\sonuc7.txt'
+Chart is saved to desktop as '\2018280059_charts\7.png'
+
+Cluster 1 size: 63
+Cluster 2 size: 36
+Cluster 3 size: 66
+Cluster 4 size: 84
+Iteration: 18
+
+WCSS: 128.341106178911
+BCSS: 2337.329396848469
+Dunn Index: 0.5001586935348061
+Results saved to desktop as '\2018280059_results\sonuc8.txt'
+Chart is saved to desktop as '\2018280059_charts\8.png'
+
+Cluster 1 size: 71
+Cluster 2 size: 56
+Cluster 3 size: 50
+Cluster 4 size: 72
+Iteration: 9
+
+WCSS: 116.58462660518587
+BCSS: 2259.9800473479186
+Dunn Index: 0.3840837449477524
+Results saved to desktop as '\2018280059_results\sonuc9.txt'
+Chart is saved to desktop as '\2018280059_charts\9.png'
+
+Cluster 1 size: 51
+Cluster 2 size: 53
+Cluster 3 size: 108
+Cluster 4 size: 37
+Iteration: 7
+
+WCSS: 123.28937904374743
+BCSS: 2398.435143668208
+Dunn Index: 0.5479563956987711
+Results saved to desktop as '\2018280059_results\sonuc10.txt'
+Chart is saved to desktop as '\2018280059_charts\10.png'
+
+Cluster 1 size: 48
+Cluster 2 size: 42
+Cluster 3 size: 89
+Cluster 4 size: 70
+Iteration: 9
+
+WCSS: 118.7548737295516
+BCSS: 2303.3824484544994
+Dunn Index: 0.5265767060374296
+Results saved to desktop as '\2018280059_results\sonuc11.txt'
+Chart is saved to desktop as '\2018280059_charts\11.png'
+
+Cluster 1 size: 59
+Cluster 2 size: 66
+Cluster 3 size: 65
+Cluster 4 size: 59
+Iteration: 8
+
+WCSS: 114.9456462333752
+BCSS: 2246.9643654670117
+Dunn Index: 0.40440478487058107
+Results saved to desktop as '\2018280059_results\sonuc12.txt'
+Chart is saved to desktop as '\2018280059_charts\12.png'
+
+Cluster 1 size: 64
+Cluster 2 size: 36
+Cluster 3 size: 72
+Cluster 4 size: 77
+Iteration: 4
+
+WCSS: 131.01569596044197
+BCSS: 2343.889899967009
+Dunn Index: 0.4877818543515936
+Results saved to desktop as '\2018280059_results\sonuc13.txt'
+Chart is saved to desktop as '\2018280059_charts\13.png'
+
+Cluster 1 size: 84
+Cluster 2 size: 54
+Cluster 3 size: 73
+Cluster 4 size: 38
+Iteration: 9
+
+WCSS: 123.66779906323691
+BCSS: 2317.9193221529667
+Dunn Index: 0.48281512198504783
+Results saved to desktop as '\2018280059_results\sonuc14.txt'
+Chart is saved to desktop as '\2018280059_charts\14.png'
+
+Cluster 1 size: 61
+Cluster 2 size: 86
+Cluster 3 size: 43
+Cluster 4 size: 59
+Iteration: 9
+
+WCSS: 122.31930856820563
+BCSS: 2306.7897959529323
+Dunn Index: 0.5360695385057499
+Results saved to desktop as '\2018280059_results\sonuc15.txt'
+Chart is saved to desktop as '\2018280059_charts\15.png'
+
+Cluster 1 size: 82
+Cluster 2 size: 61
+Cluster 3 size: 77
+Cluster 4 size: 29
+Iteration: 10
+
+WCSS: 133.38118734599993
+BCSS: 2362.4592916102906
+Dunn Index: 0.48496936751685377
+Results saved to desktop as '\2018280059_results\sonuc16.txt'
+Chart is saved to desktop as '\2018280059_charts\16.png'
+
+Cluster 1 size: 60
+Cluster 2 size: 83
+Cluster 3 size: 45
+Cluster 4 size: 61
+Iteration: 9
+
+WCSS: 121.12839406334385
+BCSS: 2294.358390161935
+Dunn Index: 0.5028140122465323
+Results saved to desktop as '\2018280059_results\sonuc17.txt'
+Chart is saved to desktop as '\2018280059_charts\17.png'
+
+Cluster 1 size: 86
+Cluster 2 size: 29
+Cluster 3 size: 76
+Cluster 4 size: 58
+Iteration: 9
+
+WCSS: 131.3982953707833
+BCSS: 2361.8941799437143
+Dunn Index: 0.5194591588836022
+Results saved to desktop as '\2018280059_results\sonuc18.txt'
+Chart is saved to desktop as '\2018280059_charts\18.png'
+
+Cluster 1 size: 70
+Cluster 2 size: 48
+Cluster 3 size: 89
+Cluster 4 size: 42
+Iteration: 10
+
+WCSS: 118.7548737295516
+BCSS: 2303.3824484544994
+Dunn Index: 0.5265767060374296
+Results saved to desktop as '\2018280059_results\sonuc19.txt'
+Chart is saved to desktop as '\2018280059_charts\19.png'
+
